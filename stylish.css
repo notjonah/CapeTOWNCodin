@@ -1,0 +1,38 @@
+html {
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+}
+
+.font {
+    font: bold 40px sans-serif;
+}
+
+body {
+    background-color: #3D85C6;
+    align-items: center;
+}
+
+.image-border {
+    border-color: white;
+    border-width: 2px;
+    border-style: dotted;
+    border-radius: 50%;
+}
+
+.responsive-vid iframe {
+	position: relative;
+	width: 70%;
+    height: 70%;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.redundancy {
+    float: middle;
+    height: 80px;
+    width: 80%
+}
+
